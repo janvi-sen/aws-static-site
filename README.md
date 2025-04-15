@@ -7,6 +7,13 @@ This is a simple static website built using HTML, CSS, and JavaScript, and hoste
 [Click here to view the site]([https://your-s3-site-link.com](http://janvibucket.s3-website-us-east-1.amazonaws.com/))
 
 ## 📁 Project Structure
+```
+project-root/
+├── index.html
+├── about.html
+├── script.js
+└── style.css
+```
 
 ## 💻 Technologies Used
 - HTML5
@@ -26,7 +33,6 @@ This is a simple static website built using HTML, CSS, and JavaScript, and hoste
 ![image](https://github.com/user-attachments/assets/0b0a37a5-909a-44b4-a124-d78ee73f2a3e)
 
 
-![Website Screenshot]("C:\Users\prata\Downloads\mywebsite.png")
 ## 🙋‍♂️ What I Learned
 
 - Hosting static files on AWS
