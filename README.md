@@ -4,7 +4,7 @@ This is a simple static website built using HTML, CSS, and JavaScript, and hoste
 
 ## 🔗 Live Demo
 
-[Click here to view the site]([https://your-s3-site-link.com](http://janvibucket.s3-website-us-east-1.amazonaws.com/))
+(http://janvibucket.s3-website-us-east-1.amazonaws.com/)
 
 ## 📁 Project Structure
 ```
