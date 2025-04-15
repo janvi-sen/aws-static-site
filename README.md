@@ -24,9 +24,8 @@ This is a simple static website built using HTML, CSS, and JavaScript, and hoste
 
 ## 📸 Screenshot
 
-![Website Screenshot](![mywebsite](https://github.com/user-attachments/assets/9d03b9f6-7b48-4015-97d2-51ae95188b56)
-)
 
+![Website Screenshot]("C:\Users\prata\Downloads\mywebsite.png")
 ## 🙋‍♂️ What I Learned
 
 - Hosting static files on AWS
