@@ -23,6 +23,7 @@ This is a simple static website built using HTML, CSS, and JavaScript, and hoste
 5. Access your site using the S3 website endpoint
 
 ## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/0b0a37a5-909a-44b4-a124-d78ee73f2a3e)
 
 
 ![Website Screenshot]("C:\Users\prata\Downloads\mywebsite.png")
