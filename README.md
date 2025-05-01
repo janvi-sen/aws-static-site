@@ -41,4 +41,4 @@ project-root/
 
 ---
 
-Made with 💜 by Janvi Sen
+By Janvi Sen
