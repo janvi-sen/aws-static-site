@@ -2,11 +2,11 @@
 
 This is a simple static website built using HTML, CSS, and JavaScript, and hosted on AWS S3.
 
-## 🔗 Live Demo
+##  Live Demo
 
 (http://janvibucket.s3-website-us-east-1.amazonaws.com/)
 
-## 📁 Project Structure
+##  Project Structure
 ```
 project-root/
 ├── index.html
@@ -15,13 +15,13 @@ project-root/
 └── style.css
 ```
 
-## 💻 Technologies Used
+##  Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 - AWS S3 (Static Website Hosting)
 
-## 🚀 Deployment Steps
+##  Deployment Steps
 
 1. Create an AWS S3 bucket
 2. Enable Static Website Hosting
@@ -33,10 +33,7 @@ project-root/
 ![image](https://github.com/user-attachments/assets/0b0a37a5-909a-44b4-a124-d78ee73f2a3e)
 
 
-## 🙋‍♂️ What I Learned
 
-- Hosting static files on AWS
-- Setting up bucket policies
 - Using GitHub for version control
 
 ---
