@@ -29,7 +29,7 @@ project-root/
 4. Make files public
 5. Access your site using the S3 website endpoint
 
-## 📸 Screenshot
+##  Screenshot
 ![image](https://github.com/user-attachments/assets/0b0a37a5-909a-44b4-a124-d78ee73f2a3e)
 
 
